@@ -1,0 +1,12 @@
+streamlit
+pandas
+openai
+faiss-cpu
+langchain
+langchain-community
+langchain-openai
+tiktoken
+sqlalchemy
+psycopg2-binary
+SQLAlchemy
+langchain-experimental

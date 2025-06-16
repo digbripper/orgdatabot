@@ -1,8 +1,11 @@
 entrypoint = "main.py"
-modules = ["python-3.11"]
+
+run = "streamlit run main.py --server.port=3000 --server.address=0.0.0.0 --server.headless true --server.enableCORS=false"
+modules = ["python-3.11", "postgresql-16"]
 
 [nix]
 channel = "stable-24_05"
+packages = ["bash", "cargo", "glibcLocales", "libiconv", "rustc"]
 
 [unitTest]
 language = "python3"
@@ -11,5 +14,11 @@ language = "python3"
 requiredFiles = [".replit", "replit.nix"]
 
 [deployment]
-run = ["python3", "main.py"]
+run = ["sh", "-c", "streamlit run main.py --server.headless true --server.address=0.0.0.0 --server.enableCORS=false --server.port=3000"]
 deploymentTarget = "cloudrun"
+build = ["sh", "-c", "pip install -r requirements.txt"]
+
+[[ports]]
+localPort = 3000
+externalPort = 80
+

@@ -1,0 +1,181 @@
+Borough,Neighborhood,Zip
+Manhattan,"Inwood, Washington Heights",10031
+Manhattan,"Inwood, Washington Heights",10032
+Manhattan,"Inwood, Washington Heights",10033
+Manhattan,"Inwood, Washington Heights",10034
+Manhattan,Inwood and Washington Heights,10040
+Manhattan,Central Harlem,10026
+Manhattan,Central Harlem,10027
+Manhattan,Central Harlem,10030
+Manhattan,Central Harlem,10037
+Manhattan,Central Harlem,10039
+Manhattan,East Harlem,10029
+Manhattan,East Harlem,10035
+Manhattan,"Upper West Side, UWS, The Upper West Side",10023
+Manhattan,"Upper West Side, UWS, The Upper West Side",10024
+Manhattan,Upper West Side,10025
+Manhattan,"Upper East Side, UES, The Upper East Side",10021
+Manhattan,"Upper East Side, UES, The Upper East Side",10028
+Manhattan,"Upper East Side, UES, The Upper East Side",10044
+Manhattan,"Upper East Side, UES, The Upper East Side",10065
+Manhattan,"Upper East Side, UES, The Upper East Side",10075
+Manhattan,"Upper East Side, UES, The Upper East Side",10128
+Manhattan,"Chelsea, Clinton",10001
+Manhattan,"Chelsea, Clinton, Flatiron",10011
+Manhattan,"Chelsea, Clinton",10018
+Manhattan,"Chelsea, Clinton",10019
+Manhattan,"Chelsea, Clinton",10020
+Manhattan,"Chelsea, Clinton",10036
+Manhattan,"Gramercy Park, Turtle Bay, Murray Hill, Midtown East",10010
+Manhattan,"Gramercy Park, Turtle Bay, Murray Hill, Midtown East",10016
+Manhattan,"Gramercy Park, Turtle Bay, Murray Hill, Midtown East",10017
+Manhattan,"Gramercy Park, Turtle Bay, Murray Hill, Midtown East",10022
+Manhattan,"Greenwich Village, Soho, Tribeca, Noho",10012
+Manhattan,"Greenwich Village, Soho, Tribeca, Noho",10013
+Manhattan,"Greenwich Village, Soho, Tribeca, Noho",10014
+Manhattan,"Union Square, Lower East Side, Chinatown, Little Italy",10002
+Manhattan,"Union Square, Lower East Side, Chinatown, Little Italy",10003
+Manhattan,"Union Square, Lower East Side, Chinatown, Little Italy",10009
+Manhattan,"Lower Manhattan, Financial District, Fidi",10004
+Manhattan,"Lower Manhattan, Financial District, Fidi",10005
+Manhattan,"Lower Manhattan, Financial District, Fidi",10006
+Manhattan,"Lower Manhattan, Financial District, Fidi",10007
+Manhattan,"Lower Manhattan, Financial District, Fidi",10038
+Manhattan,"Lower Manhattan, Financial District, Fidi",10280
+Manhattan,Roosevelt Island,10044
+Staten Island,Port Richmond,10302
+Staten Island,"Port Richmond, Mariners Harbor",10303
+Staten Island,"Port Richmond, West New Brighton",10310
+Staten Island,"South Beach, Tottenville, New Dorp",10306
+Staten Island,"South Beach, Tottenville",10307
+Staten Island,"South Beach, Tottenville, Great Kills",10308
+Staten Island,"South Beach, Tottenville, Prince's Bay",10309
+Staten Island,"South Beach, Tottenville, Eltingville",10312
+Staten Island,"Stapleton, St. George, St George",10301
+Staten Island,"Stapleton, St. George, St George",10304
+Staten Island,"Stapleton, St. George, St George, Rosebank",10305
+Staten Island,"Mid-Island,  Mid Island, Willowbrook, New Springville",10314
+The Bronx,"Kingsbridge, Riverdale",10463
+The Bronx,"Kingsbridge, Riverdale",10471
+The Bronx,"Northeast Bronx, Northeast",10466
+The Bronx,"Northeast Bronx, Northeast",10469
+The Bronx,"Northeast Bronx, Northeast",10470
+The Bronx,"Northeast Bronx, Northeast",10475
+The Bronx,"Crotona, Tremont",10453
+The Bronx,"Crotona, Tremont",10457
+The Bronx,"Crotona, Tremont",10460
+The Bronx,"Bronx Park, Fordham",10458
+The Bronx,"Bronx Park, Fordham",10467
+The Bronx,"Bronx Park, Fordham",10468
+The Bronx,"Pelham, Throgs Neck",10461
+The Bronx,"Pelham, Throgs Neck",10462
+The Bronx,"Pelham, Throgs Neck",10464
+The Bronx,"Pelham, Throgs Neck",10465
+The Bronx,"Pelham, Throgs Neck",10472
+The Bronx,"Pelham, Throgs Neck",10473
+The Bronx,"HighBridge, High Bridge, Morrisania",10451
+The Bronx,"HighBridge, High Bridge, Morrisania",10452
+The Bronx,"HighBridge, High Bridge, Morrisania",10456
+The Bronx,"Hunts Point, Mott Haven",10454
+The Bronx,"Hunts Point, Mott Haven",10455
+The Bronx,"Hunts Point, Mott Haven",10459
+The Bronx,"Hunts Point, Mott Haven",10474
+Queens,"Long Island City, Astoria, LIC",11101
+Queens,"Long Island City, Astoria, LIC",11102
+Queens,"Long Island City, Astoria, LIC",11103
+Queens,"Long Island City, Astoria, LIC, Sunnyside",11104
+Queens,"Long Island City, Astoria, LIC",11105
+Queens,"Long Island City, Astoria, LIC",11106
+Queens,"West Queens, Corona",11368
+Queens,West Queens,11369
+Queens,West Queens,11370
+Queens,"West Queens, Jackson Heights",11372
+Queens,West Queens,11373
+Queens,West Queens,11377
+Queens,West Queens,11378
+Queens,North Queens,11354
+Queens,North Queens,11355
+Queens,"North Queens, College Point",11356
+Queens,North Queens,11357
+Queens,"North Queens, Flushing",11358
+Queens,North Queens,11359
+Queens,North Queens,11360
+Queens,Northeast Queens,11361
+Queens,Northeast Queens,11362
+Queens,Northeast Queens,11363
+Queens,Northeast Queens,11364
+Queens,West Central Queens,11374
+Queens,West Central Queens,11375
+Queens,West Central Queens,11379
+Queens,West Central Queens,11385
+Queens,Central Queens,11365
+Queens,"Central Queens, Fresh Meadows, Flushing",11366
+Queens,Central Queens,11367
+Queens,"Southwest Queens, Howard Beach",11414
+Queens,Southwest Queens,11415
+Queens,Southwest Queens,11416
+Queens,Southwest Queens,11417
+Queens,Southwest Queens,11418
+Queens,Southwest Queens,11419
+Queens,Southwest Queens,11420
+Queens,Southwest Queens,11421
+Queens,"Jamaica, St. Albans",11412
+Queens,"Jamaica, Bayside",11423
+Queens,Jamaica,11432
+Queens,Jamaica,11433
+Queens,Jamaica,11434
+Queens,Jamaica,11435
+Queens,"Jamaica, West Ozone Park",11436
+Queens,Southeast Queens,11004
+Queens,Southeast Queens,11005
+Queens,Southeast Queens,11411
+Queens,Southeast Queens,11413
+Queens,Southeast Queens,11422
+Queens,Southeast Queens,11426
+Queens,Southeast Queens,11427
+Queens,Southeast Queens,11428
+Queens,"Southeast Queens, Queens Village",11429
+Queens,"Rockaways, Rockaway, Far Rockaway",11691
+Queens,"Rockaways, Rockaway",11692
+Queens,"Rockaways, Rockaway",11693
+Queens,"Rockaways, Rockaway",11694
+Queens,"Rockaways, Rockaway",11695
+Queens,"Rockaways, Rockaway",11697
+Brooklyn,Greenpoint,11211
+Brooklyn,Greenpoint,11222
+Brooklyn,"Northwest Brooklyn, Cobble Hill, Brooklyn Heights, Dumbo, Vinegar Hill",11201
+Brooklyn,"Northwest Brooklyn, Navy Yard, Brooklyn Navy Yard, Fort Greene",11205
+Brooklyn,"Northwest Brooklyn, Park Slope",11215
+Brooklyn,Northwest Brooklyn,11217
+Brooklyn,"Northwest Brooklyn, Carroll Gardens",11231
+Brooklyn,"Central Brooklyn, Bedford Stuyvesant, Bed Stuy, Bedstuy, Crown Heights",11212
+Brooklyn,"Central Brooklyn, Bedford Stuyvesant, Bed Stuy, Bedstuy, Crown Heights",11213
+Brooklyn,"Central Brooklyn, Bedford Stuyvesant, Bed Stuy, Bedstuy, Crown Heights",11216
+Brooklyn,"Central Brooklyn, Bedford Stuyvesant, Bed Stuy, Bedstuy, Crown Heights",11233
+Brooklyn,"Central Brooklyn, Bedford Stuyvesant, Bed Stuy, Bedstuy, Crown Heights",11238
+Brooklyn,"East New York, New Lots",11207
+Brooklyn,"East New York, New Lots",11208
+Brooklyn,Sunset Park,11220
+Brooklyn,Sunset Park,11232
+Brooklyn,"Southwest Brooklyn, Bay Ridge",11209
+Brooklyn,"Southwest Brooklyn, Bath Beach",11214
+Brooklyn,"Southwest Brooklyn, Dyker Heights",11228
+Brooklyn,"Borough Park, Mapleton",11204
+Brooklyn,"Borough Park, Kensington",11218
+Brooklyn,Borough Park,11219
+Brooklyn,"Borough Park, Midwood",11230
+Brooklyn,"Canarsie, Flatlands",11234
+Brooklyn,"Canarsie, Flatlands",11236
+Brooklyn,"Canarsie, Flatlands",11239
+Brooklyn,"Southern Brooklyn, South Brooklyn, Gravesend",11223
+Brooklyn,"Southern Brooklyn, South Brooklyn, Coney Island",11224
+Brooklyn,"Southern Brooklyn, South Brooklyn, Sheepshead Bay, Madison",11229
+Brooklyn,"Southern Brooklyn, South Brooklyn, Sheepshead Bay, Manhattan Beach, Brighton Beach",11235
+Brooklyn,Downtown Brooklyn,11245
+Brooklyn,"Flatbush, East Midwood, Midwood",11210
+Brooklyn,"Flatbush, Little Haiti, Prospect Park South",11226
+Brooklyn,"Flatbush, East Flatbush",11203
+Brooklyn,"Flatbush, Prospect Lefferts Garden, Crown Heights",11225
+Brooklyn,"Bushwick, WIlliamsburg",11206
+Brooklyn,"Bushwick, WIlliamsburg",11221
+Brooklyn,"Bushwick, WIlliamsburg",11237
